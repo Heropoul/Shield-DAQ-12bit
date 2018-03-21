@@ -1,1 +1,1 @@
-#SHIELD DAQ-12bit
+#SHIELD DAQ-12bit 8 channel
